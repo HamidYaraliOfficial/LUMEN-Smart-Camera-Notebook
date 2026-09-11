@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لومن</string>
+    <string name="tagline">دفترچه هوشمند دوربین</string>
+
+    <string name="nav_home">خانه</string>
+    <string name="nav_scan">اسکن</string>
+    <string name="nav_notebook">دفترچه‌ها</string>
+    <string name="nav_search">جستجو</string>
+    <string name="nav_documents">اسناد</string>
+    <string name="nav_settings">تنظیمات</string>
+
+    <string name="home_quick_scan">اسکن سریع</string>
+    <string name="home_recent_documents">اسناد اخیر</string>
+    <string name="home_recent_notes">یادداشت‌های اخیر</string>
+    <string name="home_recent_receipts">رسیدهای اخیر</string>
+    <string name="home_pending_reviews">بررسی‌ها و وظایف در انتظار</string>
+
+    <string name="mode_document">سند</string>
+    <string name="mode_board">تخته</string>
+    <string name="mode_book">کتاب</string>
+    <string name="mode_receipt">رسید</string>
+    <string name="mode_table">جدول</string>
+    <string name="mode_handwriting">دست‌نویس</string>
+    <string name="mode_business_card">کارت ویزیت</string>
+    <string name="mode_qr_barcode">کیوآر / بارکد</string>
+    <string name="mode_free_scan">اسکن آزاد</string>
+
+    <string name="settings_theme">پوسته</string>
+    <string name="settings_theme_windows11">ویندوز ۱۱ (پیش‌فرض)</string>
+    <string name="settings_theme_light">روشن</string>
+    <string name="settings_theme_dark">تاریک</string>
+    <string name="settings_theme_red">قرمز</string>
+    <string name="settings_theme_blue">آبی</string>
+    <string name="settings_language">زبان</string>
+    <string name="settings_live_ocr">نمایش زنده تشخیص متن</string>
+    <string name="settings_cloud_ai">فعال‌سازی هوش مصنوعی ابری (اختیاری)</string>
+    <string name="settings_biometric_lock">قفل بیومتریک برای دفترچه‌های خصوصی</string>
+    <string name="settings_business_hours">ساعات کاری</string>
+    <string name="settings_business_hours_desc">ساعات باز و بسته بودن را وارد کنید تا لومن وضعیت زنده و زمان باقی‌مانده تا تغییر بعدی را نمایش دهد.</string>
+    <string name="settings_manage_business_hours">مدیریت ساعات کاری</string>
+
+    <string name="business_hours_title">ساعات کاری</string>
+    <string name="business_hours_empty_title">هنوز برنامه‌ای ثبت نشده</string>
+    <string name="business_hours_empty_subtitle">یک برنامه بسازید و ساعات باز بودن هر روز را وارد کنید — بقیه را لومن محاسبه می‌کند.</string>
+    <string name="business_hours_open_now">اکنون باز است</string>
+    <string name="business_hours_closed">بسته است</string>
+    <string name="business_hours_new_schedule">برنامه جدید</string>
+    <string name="business_hours_label_hint">عنوان (مثلاً فروشگاه من)</string>
+    <string name="business_hours_timezone_hint">منطقه زمانی (مثلاً Asia/Baku)</string>
+    <string name="business_hours_edit_days">ویرایش روزها</string>
+    <string name="business_hours_hide_days">پنهان کردن روزها</string>
+    <string name="business_hours_closed_all_day">در تمام روز بسته است</string>
+
+    <string name="action_save">ذخیره</string>
+    <string name="action_cancel">انصراف</string>
+    <string name="action_create">ایجاد</string>
+    <string name="action_delete">حذف</string>
+    <string name="permission_camera_required">برای اسکن به دسترسی دوربین نیاز است.</string>
+</resources>

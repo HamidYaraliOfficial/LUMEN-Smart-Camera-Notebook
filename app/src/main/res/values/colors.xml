@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lumen_windows11_accent">#0078D4</color>
+    <color name="lumen_windows11_background">#FAFAFA</color>
+    <color name="lumen_dark_background">#000000</color>
+    <color name="lumen_splash_background">#0078D4</color>
+    <color name="lumen_splash_icon_tint">#FFFFFF</color>
+</resources>

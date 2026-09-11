@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LUMEN</string>
+    <string name="tagline">Smart Camera Notebook</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_notebook">Notebook</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_documents">Documents</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="home_quick_scan">Quick Scan</string>
+    <string name="home_recent_documents">Recent documents</string>
+    <string name="home_recent_notes">Recent notes</string>
+    <string name="home_recent_receipts">Recent receipts</string>
+    <string name="home_pending_reviews">Pending reviews &amp; tasks</string>
+
+    <string name="mode_document">Document</string>
+    <string name="mode_board">Board</string>
+    <string name="mode_book">Book</string>
+    <string name="mode_receipt">Receipt</string>
+    <string name="mode_table">Table</string>
+    <string name="mode_handwriting">Handwriting</string>
+    <string name="mode_business_card">Business card</string>
+    <string name="mode_qr_barcode">QR / Barcode</string>
+    <string name="mode_free_scan">Free scan</string>
+
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_windows11">Windows 11 (default)</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_red">Red</string>
+    <string name="settings_theme_blue">Blue</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_live_ocr">Live OCR overlay</string>
+    <string name="settings_cloud_ai">Enable optional Cloud AI</string>
+    <string name="settings_biometric_lock">Biometric lock for private notebooks</string>
+    <string name="settings_business_hours">Business hours</string>
+    <string name="settings_business_hours_desc">Set up open/closed hours and LUMEN will show live status and time to next change.</string>
+    <string name="settings_manage_business_hours">Manage business hours</string>
+
+    <string name="business_hours_title">Business hours</string>
+    <string name="business_hours_empty_title">No schedules yet</string>
+    <string name="business_hours_empty_subtitle">Add a schedule and enter opening hours for each day — LUMEN will work out the rest.</string>
+    <string name="business_hours_open_now">Open now</string>
+    <string name="business_hours_closed">Closed</string>
+    <string name="business_hours_new_schedule">New schedule</string>
+    <string name="business_hours_label_hint">Label (e.g. My Shop)</string>
+    <string name="business_hours_timezone_hint">Time zone (e.g. Asia/Baku)</string>
+    <string name="business_hours_edit_days">Edit days</string>
+    <string name="business_hours_hide_days">Hide days</string>
+    <string name="business_hours_closed_all_day">Closed all day</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_create">Create</string>
+    <string name="action_delete">Delete</string>
+    <string name="permission_camera_required">Camera permission is required to scan.</string>
+</resources>

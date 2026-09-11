@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <include domain="database" path="lumen_database" />
+    <include domain="file" path="lumen_images/" />
+    <include domain="file" path="lumen_pdfs/" />
+    <exclude domain="file" path="lumen_cache/" />
+</full-backup-content>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--
+      LUMEN's UI is built entirely with Jetpack Compose + Material 3 (see core/theme/Theme.kt for
+      the five in-app themes: Windows 11 default, Light, Dark, Red, Blue). These XML themes exist
+      only for the parts Android still needs an XML theme for: the window background shown for a
+      brief moment before Compose takes over, and the launch/splash window.
+    -->
+    <style name="Theme.Lumen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/lumen_windows11_background</item>
+        <item name="android:statusBarColor">@color/lumen_windows11_background</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="23">true</item>
+    </style>
+
+    <style name="Theme.Lumen.Splash" parent="Theme.Lumen">
+        <item name="android:windowBackground">@color/lumen_splash_background</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="23">false</item>
+    </style>
+</resources>
